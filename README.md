@@ -69,5 +69,7 @@ student-result-management-system :
 
 This project was developed to practice Python fundamentals and understand how CRUD-based management systems work.
 
-## AUTHOR 
-Created by **Ronak Ameta**
+## DEVELOPER
+
+**RONAK AMETA**
+
